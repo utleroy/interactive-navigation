@@ -1,0 +1,16 @@
+body {
+
+}
+
+
+
+
+nav ul li:hover {
+  background-color: yellow;
+}
+
+a.redText:hover, a.active:hover {
+  color: red;
+}
+
+
